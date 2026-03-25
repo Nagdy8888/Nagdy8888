@@ -46,24 +46,19 @@
 ## 🛠 Tech Stack
 
 <p align="center">
-  <b>Core AI & Data Science</b><br><br>
+  <b>Core AI & Backend</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy" alt="AI Stack" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,fastapi,postgres,docker,git" alt="Core Stack" />
   </a>
 </p>
 
 <p align="center">
-  <b>Backend & Tools</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,linux,bash" alt="Backend Stack" />
-  </a>
-</p>
-
-<p align="center">
-  <b>Libraries</b><br><br>
+  <b>Data Science & Libraries</b><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="45" height="45" title="Pandas"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="45" height="45" title="NumPy"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45" title="Matplotlib"/>&nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45" title="Jupyter"/>&nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="45" height="45" title="Langchain"/>
+  <img src="https://cdn.simpleicons.org/langchain/0e75b6" alt="langchain" width="45" height="45" title="Langchain"/>
 </p>
 
 ## 📈 GitHub Analytics

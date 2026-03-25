@@ -66,7 +66,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none;">
-      <a href="https://github.com/Nagdy8888/image_agent">
+      <a href="https://github.com/Nagdy8888/image-analysis-agent">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=image_agent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Image Agent Repo" />
       </a>
     </td>

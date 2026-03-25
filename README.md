@@ -1,70 +1,88 @@
-<h1 align="center">Hi 👋, I'm Mustafa Alnagdy</h1>
-<h3 align="center">AI/ML Engineer specializing in AI Agents & Automation</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Mustafa%20Alnagdy&fontSize=60&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" alt="Header Banner" />
+</div>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Nagdy8888&label=Profile%20views&color=0e75b6&style=flat" alt="Nagdy8888" /> 
-</p>
-
-<p align="center"> 
+<div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nagdy8888&theme=radical&margin-w=15" alt="Nagdy8888 Trophies" />
-  </a> 
-</p>
-
----
-
-## 👨🏻‍💻 About Me
-
-- 🔭 I'm currently working on **AI Agents & Automation**
-- 🌱 I'm currently learning **LangGraph** & **Google Apps Script**
-- 🤝 I'm looking for help with becoming a **Full-Stack AI Engineer**
-- 👯 I'm looking to collaborate on exciting **AI Projects**
-- 💬 Ask me about **Machine Learning Algorithms & AI Agents**
-- 📫 How to reach me: **[mustafaalangdy26@gmail.com](mailto:mustafaalangdy26@gmail.com)**
-- 👨‍💻 All of my projects are available on my **[Portfolio Website](https://my-portofolio-fawn-beta.vercel.app/)**
-- 📄 Know more about my experiences in my **[Resume](https://drive.google.com/file/d/1TgzSOFpeD3mZmDFpatoZLyrrfdVU0EcB/view)**
-- ⚡ Fun fact: *I like to let my work make the noise (I enjoy being silent).*
-
----
-
-## 🛠 Languages and Tools
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,fastapi,postgres,docker,git&perline=8" alt="Core Skills" />
+    <img src="https://github-profile-trophy.vercel.app/?username=Nagdy8888&theme=radical&margin-w=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
   </a>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40" title="Pandas"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40" title="NumPy"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="40" height="40" title="Matplotlib"/>&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40" title="Jupyter"/>&nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="40" height="40" title="Langchain"/>
-</p>
+<br />
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nagdy8888&show_icons=true&locale=en&theme=radical" alt="Nagdy8888 Stats" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nagdy8888&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" height="150"/>
-</p>
-
----
-
-## 🤝 Connect with me
-
-<p align="center">
-  <a href="https://github.com/Nagdy8888" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
+<div align="center">
   <a href="https://linkedin.com/in/mustafa-alnagdy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="mailto:mustafaalangdy26@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://my-portofolio-fawn-beta.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=mac-os&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://drive.google.com/file/d/1TgzSOFpeD3mZmDFpatoZLyrrfdVU0EcB/view" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-0e75b6?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
+  </a>
+</div>
+
+<br />
+
+## 👨🏻‍💻 About Me
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td width="50%" style="border: none;">
+      <ul>
+        <li>🔭 Working on <b>AI Agents & Automation</b></li>
+        <li>🌱 Learning <b>LangGraph & Google Scripts</b></li>
+        <li>🤝 Seeking help to become a <b>Full-Stack AI Engineer</b></li>
+        <li>👯 Open to collaborate on <b>AI Projects</b></li>
+        <li>💬 Ask me about <b>ML Algorithms & AI Agents</b></li>
+        <li>⚡ Fun fact: <i>I like to let my work make the noise (I enjoy being silent).</i></li>
+      </ul>
+    </td>
+    <td width="50%" align="center" style="border: none;">
+      <img src="https://komarev.com/ghpvc/?username=Nagdy8888&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+      <br /><br />
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Machine+Learning;AI+Agents;Automation;Python+Developer&font=Fira+Code&center=true&width=300&height=45&color=0e75b6&vCenter=true" alt="Typing SVG" />
+    </td>
+  </tr>
+</table>
+
+## 🛠 Tech Stack
+
+<p align="center">
+  <b>Core AI & Data Science</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,pandas,numpy" alt="AI Stack" />
+  </a>
 </p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Nagdy8888&" alt="Nagdy8888" /></p>
+<p align="center">
+  <b>Backend & Tools</b><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=fastapi,postgres,docker,git,linux,bash" alt="Backend Stack" />
+  </a>
+</p>
+
+<p align="center">
+  <b>Libraries</b><br><br>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" alt="matplotlib" width="45" height="45" title="Matplotlib"/>&nbsp;&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="45" height="45" title="Jupyter"/>&nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" alt="langchain" width="45" height="45" title="Langchain"/>
+</p>
+
+## 📈 GitHub Analytics
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Nagdy8888&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nagdy8888 Stats" />
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nagdy8888&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
 
 

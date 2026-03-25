@@ -67,12 +67,12 @@
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none;">
       <a href="https://github.com/Nagdy8888/image_agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=Your-Repo-Name-1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=image_agent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Image Agent Repo" />
       </a>
     </td>
     <td align="center" width="50%" style="border: none;">
       <a href="https://github.com/Nagdy8888/Rag-docker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=Your-Repo-Name-2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=Rag-docker&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Rag-docker Repo" />
       </a>
     </td>
   </tr>
@@ -95,4 +95,3 @@
     </td>
   </tr>
 </table>
-

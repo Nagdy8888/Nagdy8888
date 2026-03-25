@@ -1,16 +1,100 @@
-## Hi there 👋
-
-<!--
-**Nagdy8888/Nagdy8888** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+{
+  "version": "1.0.0",
+  "exportedAt": "2026-03-25T16:06:20.797Z",
+  "profile": {
+    "title": "Mustafa Alnagdy",
+    "subtitle": "AI/ML Engineer",
+    "currentWork": "AI Agents | Automation ",
+    "currentLearn": "LangGraph | Google Scripts",
+    "collaborateOn": "AI projects",
+    "helpWith": "learning to be full-stack AI",
+    "ama": "ML algorithms | Ai agents ",
+    "contact": "mustafaalangdy26@gmail.com",
+    "funFact": "I like to be silent",
+    "visitorsBadge": true,
+    "badgeStyle": "flat",
+    "badgeColor": "0e75b6",
+    "badgeLabel": "Profile views",
+    "githubProfileTrophy": true,
+    "githubStats": true,
+    "githubStatsOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "topLanguages": true,
+    "topLanguagesOptions": {
+      "theme": "",
+      "titleColor": "",
+      "textColor": "",
+      "bgColor": "",
+      "hideBorder": false,
+      "cacheSeconds": null,
+      "locale": "en"
+    },
+    "streakStats": true,
+    "streakStatsOptions": {
+      "theme": ""
+    },
+    "devDynamicBlogs": false,
+    "mediumDynamicBlogs": false,
+    "rssDynamicBlogs": false
+  },
+  "links": {
+    "currentWork": "",
+    "collaborateOn": "",
+    "helpWith": "",
+    "portfolio": "https://my-portofolio-fawn-beta.vercel.app/",
+    "blog": "",
+    "resume": "https://drive.google.com/file/d/1TgzSOFpeD3mZmDFpatoZLyrrfdVU0EcB/view"
+  },
+  "social": {
+    "github": "Nagdy8888",
+    "dev": "",
+    "linkedin": "mustafa-alnagdy",
+    "codepen": "",
+    "stackoverflow": "",
+    "kaggle": "",
+    "codesandbox": "",
+    "fb": "",
+    "instagram": "",
+    "twitter": "",
+    "dribbble": "",
+    "behance": "",
+    "medium": "",
+    "youtube": "",
+    "codechef": "",
+    "hackerrank": "",
+    "codeforces": "",
+    "leetcode": "",
+    "topcoder": "",
+    "hackerearth": "",
+    "geeks_for_geeks": "",
+    "discord": "",
+    "rssurl": "",
+    "twitterBadge": false
+  },
+  "support": {
+    "buyMeACoffee": ""
+  },
+  "skills": [
+    "docker",
+    "fastapi",
+    "git",
+    "jupyter",
+    "langchain",
+    "matplotlib",
+    "numpy",
+    "pandas",
+    "postgresql",
+    "python",
+    "pytorch",
+    "scikit_learn",
+    "seaborn",
+    "tensorflow"
+  ]
+}

@@ -78,7 +78,7 @@
   </tr>
 </table>
 
-## 📈 GitHub Analytics
+## 📈 GitHub Analytics & Coding Metrics
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
@@ -90,8 +90,20 @@
     </td>
   </tr>
   <tr style="border: none;">
-    <td align="center" colspan="2" style="border: none; padding-top: 15px;">
+    <td align="center" width="50%" style="border: none; padding-top: 15px;">
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagdy8888&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </td>
+    <td align="center" width="50%" style="border: none; padding-top: 15px;">
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nagdy8888&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="WakaTime Stats" />
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <br>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/dist/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/dist/github-contribution-grid-snake.svg">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/dist/github-contribution-grid-snake.svg">
+  </picture>
+</div>

@@ -61,6 +61,23 @@
   <img src="https://cdn.simpleicons.org/langchain/0e75b6" alt="langchain" width="45" height="45" title="Langchain"/>
 </p>
 
+## 🚀 Featured Projects
+
+<table align="center" style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td align="center" width="50%" style="border: none;">
+      <a href="https://github.com/Nagdy8888/image-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=Your-Repo-Name-1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1" />
+      </a>
+    </td>
+    <td align="center" width="50%" style="border: none;">
+      <a href="https://github.com/Nagdy8888/Rag-docker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=Your-Repo-Name-2&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 2" />
+      </a>
+    </td>
+  </tr>
+</table>
+
 ## 📈 GitHub Analytics
 
 <table align="center" style="border-collapse: collapse; border: none;">

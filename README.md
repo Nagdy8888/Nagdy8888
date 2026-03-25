@@ -2,12 +2,6 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Mustafa%20Alnagdy&fontSize=60&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" alt="Header Banner" />
 </div>
 
-<div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Nagdy8888&theme=radical&margin-w=15&column=7&no-frame=true&no-bg=true" alt="Trophies" />
-  </a>
-</div>
-
 <br />
 
 <div align="center">

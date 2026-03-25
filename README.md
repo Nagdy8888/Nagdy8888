@@ -77,6 +77,10 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nagdy8888&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
     </td>
   </tr>
+  <tr style="border: none;">
+    <td align="center" colspan="2" style="border: none; padding-top: 15px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagdy8888&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+    </td>
+  </tr>
 </table>
-
 

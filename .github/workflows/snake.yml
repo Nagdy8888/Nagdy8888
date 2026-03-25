@@ -9,11 +9,16 @@ on:
     branches:
     - main
 
+# FIX 1: Explicitly grant write permissions so the bot can push the images
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      # FIX 2: Upgraded to v4 to resolve the Node.js deprecation warning
+      - uses: actions/checkout@v4
       
       - uses: Platane/snk/svg-only@v3
         with:
@@ -22,7 +27,8 @@ jobs:
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
             
-      - uses: crazy-max/ghaction-github-pages@v3.1.0
+      # FIX 2: Upgraded to v4 to resolve the Node.js deprecation warning
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist

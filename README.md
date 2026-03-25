@@ -102,8 +102,8 @@
 <div align="center">
   <br>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/dist/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/dist/github-contribution-grid-snake.svg">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/dist/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/dist/github-contribution-grid-snake-dark.svg?v=1">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/dist/github-contribution-grid-snake.svg?v=1">
+    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/dist/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>

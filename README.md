@@ -94,7 +94,7 @@
       <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagdy8888&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
     </td>
     <td align="center" width="50%" style="border: none; padding-top: 15px;">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nagdy8888&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="WakaTime Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nagdy8888&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&v=refresh1" alt="WakaTime Stats" />
     </td>
   </tr>
 </table>

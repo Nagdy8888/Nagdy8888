@@ -106,4 +106,4 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/github-contribution-grid-snake.svg?v=1">
     <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/github-contribution-grid-snake.svg?v=1">
   </picture>
-</div>
+</div>>

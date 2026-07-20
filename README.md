@@ -1,7 +1,13 @@
+<!-- ======================= HEADER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Mustafa%20Alnagdy&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agent%20Builder&descAlignY=55&descSize=18&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Mustafa%20Alnagdy&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Agent%20Builder%20%C2%B7%20RAG%20Systems&descAlignY=58&descSize=18&animation=fadeIn" alt="Header" />
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=620&lines=I+build+AI+agents+that+actually+ship;GraphRAG+%7C+LangGraph+%7C+FastAPI+%7C+Python;Turning+LLMs+into+production+systems" alt="Typing SVG" />
+</div>
+
+<!-- ======================= SOCIALS ======================= -->
 <div align="center">
   <a href="https://linkedin.com/in/mustafa-alnagdy" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -15,39 +21,67 @@
   <a href="https://drive.google.com/file/d/1TgzSOFpeD3mZmDFpatoZLyrrfdVU0EcB/view" target="_blank">
     <img src="https://img.shields.io/badge/Resume-0e75b6?style=for-the-badge&logo=google-drive&logoColor=white" alt="Resume" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+actually+ship;GraphRAG+%7C+LangGraph+%7C+FastAPI;Turning+LLMs+into+production+systems" alt="Typing SVG" />
+  <br /><br />
+  <img src="https://komarev.com/ghpvc/?username=Nagdy8888&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  <a href="https://github.com/Nagdy8888?tab=followers">
+    <img src="https://img.shields.io/github/followers/Nagdy8888?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white" alt="Followers" />
+  </a>
 </div>
 
 <br />
 
-## About Me
+<!-- ======================= ABOUT ======================= -->
+## &#128075; About Me
 
-<table align="center" style="border-collapse: collapse; border: none;">
+```python
+class MustafaAlnagdy:
+    def __init__(self):
+        self.role      = "AI / ML Engineer"
+        self.focus     = ["AI Agents", "GraphRAG", "Workflow Automation"]
+        self.stack     = ["LangGraph", "LangChain", "FastAPI", "Python"]
+        self.mindset   = "ship full-stack AI systems end to end"
+        self.open_to   = "agentic & RAG collaborations"
+
+    def say_hi(self):
+        return "I like to let my work make the noise."
+```
+
+<!-- ======================= TECH STACK ======================= -->
+## &#129513; Tech Stack
+
+<table align="center" style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
-    <td width="55%" style="border: none;">
-      <ul>
-        <li>Working on <b>AI agents, GraphRAG, and workflow automation</b></li>
-        <li>Building with <b>LangGraph, LangChain, FastAPI, and Python</b></li>
-        <li>Focused on shipping <b>full-stack AI systems</b> end to end</li>
-        <li>Open to collaborate on <b>agentic &amp; RAG projects</b></li>
-        <li>Ask me about <b>ML algorithms, retrieval, and AI agents</b></li>
-        <li>Fun fact: <i>I like to let my work make the noise.</i></li>
-      </ul>
+    <td align="center" style="border: none;"><b>AI &amp; Agents</b></td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,fastapi" alt="AI & Agents" />
+      &nbsp;
+      <img src="https://cdn.simpleicons.org/langchain/0e75b6" alt="LangChain" width="46" height="46" title="LangChain" />
+      &nbsp;
+      <img src="https://img.shields.io/badge/LangGraph-0e75b6?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
     </td>
-    <td width="45%" align="center" style="border: none;">
-      <img src="https://komarev.com/ghpvc/?username=Nagdy8888&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-      <br /><br />
-      <a href="https://github.com/Nagdy8888?tab=followers">
-        <img src="https://img.shields.io/github/followers/Nagdy8888?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white" alt="Followers" />
-      </a>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none;"><b>Backend &amp; Data</b></td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=postgres,docker,supabase,redis" alt="Backend & Data" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="44" height="44" title="Pandas" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="44" height="44" title="NumPy" />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td align="center" style="border: none;"><b>Apps &amp; Tools</b></td>
+    <td align="center" style="border: none;">
+      <img src="https://skillicons.dev/icons?i=nextjs,ts,git,github,vscode,linux" alt="Apps & Tools" />
+      &nbsp;
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="44" height="44" title="Jupyter" />
     </td>
   </tr>
 </table>
 
-## Featured Work
+<!-- ======================= FEATURED WORK ======================= -->
+## &#128640; Featured Work
 
 <div align="center">
   <a href="https://github.com/Nagdy8888/reel-movie-agent">
@@ -63,79 +97,51 @@
 
 <br />
 
-| Project | What it is |
-| ------- | ---------- |
-| **[Reel – GraphRAG Movie Agent](https://github.com/Nagdy8888/reel-movie-agent)** | Movie Q&A and recommendations grounded with LightRAG + LangGraph, FastAPI, and Next.js |
-| **[Multi-Agent Platform](https://github.com/Nagdy8888/multi_agents_for_production)** | Production LangGraph agents for PO parsing and image tagging — [live demo](https://multi-agents-for-production.vercel.app) |
-| **[Image Analysis Agent](https://github.com/Nagdy8888/image-analysis-agent)** | Vision-based product image tagging agent built with TypeScript |
+<div align="center">
 
-## Tech Stack
+| Project | What it is | Stack |
+| :------ | :--------- | :---- |
+| **[Reel &mdash; GraphRAG Movie Agent](https://github.com/Nagdy8888/reel-movie-agent)** | Movie Q&A and recommendations grounded with retrieval | `LightRAG` `LangGraph` `FastAPI` `Next.js` |
+| **[Multi-Agent Platform](https://github.com/Nagdy8888/multi_agents_for_production)** · [live demo](https://multi-agents-for-production.vercel.app) | Production agents for PO parsing and image tagging | `LangGraph` `FastAPI` `Vercel` |
+| **[Image Analysis Agent](https://github.com/Nagdy8888/image-analysis-agent)** | Vision-based product image tagging agent | `TypeScript` `Vision` |
 
-<p align="center">
-  <b>AI &amp; Agents</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,fastapi" alt="AI & Agents" />
-  </a>
-  &nbsp;
-  <img src="https://cdn.simpleicons.org/langchain/0e75b6" alt="LangChain" width="48" height="48" title="LangChain" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/LangGraph-0e75b6?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
-</p>
+</div>
 
-<p align="center">
-  <b>Backend &amp; Data</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,docker,supabase,redis" alt="Backend & Data" />
-  </a>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" title="Pandas" />
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" alt="NumPy" width="45" height="45" title="NumPy" />
-</p>
-
-<p align="center">
-  <b>Apps &amp; Tools</b><br><br>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,ts,git,github,vscode,linux" alt="Apps & Tools" />
-  </a>
-  &nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" title="Jupyter" />
-</p>
-
-## GitHub Analytics
-
-<table align="center" style="border-collapse: collapse; border: none;">
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nagdy8888&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Nagdy8888 Stats" />
-    </td>
-    <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nagdy8888&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-    </td>
-  </tr>
-  <tr style="border: none;">
-    <td align="center" width="50%" style="border: none; padding-top: 15px;">
-      <img src="https://streak-stats.demolab.com?user=Nagdy8888&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
-    </td>
-    <td align="center" width="50%" style="border: none; padding-top: 15px;">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nagdy8888&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="WakaTime Stats" />
-    </td>
-  </tr>
-</table>
+<!-- ======================= STATS ======================= -->
+## &#128202; GitHub Analytics
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nagdy8888&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nagdy8888&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" />
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nagdy8888&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
-  <br>
+  <img src="https://streak-stats.demolab.com?user=Nagdy8888&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nagdy8888&bg_color=0D1117&color=0e75b6&line=0e75b6&point=ffffff&area=true&hide_border=true" alt="Activity Graph" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nagdy8888&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="Trophies" />
+</div>
+
+<!-- ======================= QUOTE ======================= -->
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote" />
+</div>
+
+<!-- ======================= SNAKE ======================= -->
+<div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/github-contribution-grid-snake-dark.svg?palette=github-dark&v=1">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/github-contribution-grid-snake.svg?v=1">
-    <img alt="GitHub Contribution Grid Snake Animation" src="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/github-contribution-grid-snake.svg?v=1">
+    <img alt="Snake animation" src="https://raw.githubusercontent.com/Nagdy8888/Nagdy8888/output/github-contribution-grid-snake.svg?v=1">
   </picture>
 </div>
 
+<!-- ======================= FOOTER ======================= -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=70&desc=Let%27s%20build%20something%20with%20agents&descAlignY=88&descSize=14" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Let%27s%20build%20with%20agents&fontSize=22&fontColor=ffffff&fontAlignY=72&desc=Thanks%20for%20visiting%20%E2%9C%A8&descAlignY=90&descSize=13" alt="Footer" />
 </div>

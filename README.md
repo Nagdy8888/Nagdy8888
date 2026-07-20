@@ -1,8 +1,6 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=250&section=header&text=Mustafa%20Alnagdy&fontSize=60&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer&descAlignY=55&descSize=20&animation=fadeIn" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Mustafa%20Alnagdy&fontSize=60&fontColor=ffffff&fontAlignY=35&desc=AI%20%2F%20ML%20Engineer%20%E2%80%A2%20Agent%20Builder&descAlignY=55&descSize=18&animation=fadeIn" alt="Header Banner" />
 </div>
-
-<br />
 
 <div align="center">
   <a href="https://linkedin.com/in/mustafa-alnagdy" target="_blank">
@@ -19,28 +17,32 @@
   </a>
 </div>
 
-<p align="center">
-  <em>Building AI agents, RAG systems, and automation that ship</em>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI+agents+that+actually+ship;GraphRAG+%7C+LangGraph+%7C+FastAPI;Turning+LLMs+into+production+systems" alt="Typing SVG" />
+</div>
+
+<br />
 
 ## About Me
 
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
-    <td width="50%" style="border: none;">
+    <td width="55%" style="border: none;">
       <ul>
         <li>Working on <b>AI agents, GraphRAG, and workflow automation</b></li>
         <li>Building with <b>LangGraph, LangChain, FastAPI, and Python</b></li>
         <li>Focused on shipping <b>full-stack AI systems</b> end to end</li>
-        <li>Open to collaborate on <b>agentic & RAG projects</b></li>
+        <li>Open to collaborate on <b>agentic &amp; RAG projects</b></li>
         <li>Ask me about <b>ML algorithms, retrieval, and AI agents</b></li>
         <li>Fun fact: <i>I like to let my work make the noise.</i></li>
       </ul>
     </td>
-    <td width="50%" align="center" style="border: none;">
-      <img src="https://komarev.com/ghpvc/?username=Nagdy8888&label=Profile%20views&color=0e75b6&style=flat-square" alt="Profile Views" />
+    <td width="45%" align="center" style="border: none;">
+      <img src="https://komarev.com/ghpvc/?username=Nagdy8888&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
       <br /><br />
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Agents;GraphRAG;LangGraph;Automation&font=Fira+Code&center=true&width=300&height=45&color=0e75b6&vCenter=true" alt="Typing SVG" />
+      <a href="https://github.com/Nagdy8888?tab=followers">
+        <img src="https://img.shields.io/github/followers/Nagdy8888?label=Followers&style=for-the-badge&color=0e75b6&logo=github&logoColor=white" alt="Followers" />
+      </a>
     </td>
   </tr>
 </table>
@@ -70,9 +72,9 @@
 ## Tech Stack
 
 <p align="center">
-  <b>AI & Agents</b><br><br>
+  <b>AI &amp; Agents</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,scikitlearn,fastapi" alt="AI & Agents" />
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,fastapi" alt="AI & Agents" />
   </a>
   &nbsp;
   <img src="https://cdn.simpleicons.org/langchain/0e75b6" alt="LangChain" width="48" height="48" title="LangChain" />
@@ -81,9 +83,9 @@
 </p>
 
 <p align="center">
-  <b>Backend & Data</b><br><br>
+  <b>Backend &amp; Data</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,docker,supabase" alt="Backend & Data" />
+    <img src="https://skillicons.dev/icons?i=postgres,docker,supabase,redis" alt="Backend & Data" />
   </a>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" alt="Pandas" width="45" height="45" title="Pandas" />
@@ -92,9 +94,9 @@
 </p>
 
 <p align="center">
-  <b>Apps & Tools</b><br><br>
+  <b>Apps &amp; Tools</b><br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,git,vscode,linux" alt="Apps & Tools" />
+    <img src="https://skillicons.dev/icons?i=nextjs,ts,git,github,vscode,linux" alt="Apps & Tools" />
   </a>
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="45" height="45" title="Jupyter" />
@@ -105,7 +107,7 @@
 <table align="center" style="border-collapse: collapse; border: none;">
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Nagdy8888&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nagdy8888 Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=Nagdy8888&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Nagdy8888 Stats" />
     </td>
     <td align="center" width="50%" style="border: none;">
       <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nagdy8888&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
@@ -113,13 +115,17 @@
   </tr>
   <tr style="border: none;">
     <td align="center" width="50%" style="border: none; padding-top: 15px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagdy8888&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=Nagdy8888&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
     </td>
     <td align="center" width="50%" style="border: none; padding-top: 15px;">
-      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nagdy8888&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact&v=refresh1" alt="WakaTime Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nagdy8888&theme=tokyonight&hide_border=true&bg_color=0D1117&layout=compact" alt="WakaTime Stats" />
     </td>
   </tr>
 </table>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Nagdy8888&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="GitHub Trophies" />
+</div>
 
 <div align="center">
   <br>
@@ -131,5 +137,5 @@
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e75b6&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontAlignY=70&desc=Let%27s%20build%20something%20with%20agents&descAlignY=88&descSize=14" alt="Footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting&fontSize=24&fontColor=ffffff&fontAlignY=70&desc=Let%27s%20build%20something%20with%20agents&descAlignY=88&descSize=14" alt="Footer" />
 </div>

@@ -85,13 +85,13 @@ class MustafaAlnagdy:
 
 <div align="center">
   <a href="https://github.com/Nagdy8888/reel-movie-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=reel-movie-agent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="reel-movie-agent" />
+    <img src="https://github-readme-stats-gules-tau-56.vercel.app/api/pin/?username=Nagdy8888&repo=reel-movie-agent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="reel-movie-agent" />
   </a>
   <a href="https://github.com/Nagdy8888/multi_agents_for_production">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=multi_agents_for_production&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="multi_agents_for_production" />
+    <img src="https://github-readme-stats-gules-tau-56.vercel.app/api/pin/?username=Nagdy8888&repo=multi_agents_for_production&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="multi_agents_for_production" />
   </a>
   <a href="https://github.com/Nagdy8888/image-analysis-agent">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nagdy8888&repo=image-analysis-agent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="image-analysis-agent" />
+    <img src="https://github-readme-stats-gules-tau-56.vercel.app/api/pin/?username=Nagdy8888&repo=image-analysis-agent&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="image-analysis-agent" />
   </a>
 </div>
 
@@ -111,8 +111,8 @@ class MustafaAlnagdy:
 ## &#128202; GitHub Analytics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Nagdy8888&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" />
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nagdy8888&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-gules-tau-56.vercel.app/api?username=Nagdy8888&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=0D1117&count_private=true" alt="Stats" />
+  <img width="40%" src="https://github-readme-stats-gules-tau-56.vercel.app/api/top-langs?username=Nagdy8888&show_icons=true&locale=en&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&langs_count=8" alt="Top Languages" />
 </div>
 
 <div align="center">
